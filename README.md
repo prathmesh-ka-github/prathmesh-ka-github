@@ -1,6 +1,4 @@
-# Hello World!
-<h1 align="center">Hello World!</h1>
-<h1 align="center">Hi 👋, I'm Prathmesh</h1>
+<h1 align="center">Hello World! <br>Hi 👋, I'm Prathmesh</h1>
 <h2 align="center">Development and design</h2>
 
 - 🔭 I’m currently working on **A frontend project using React JS**
