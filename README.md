@@ -1,5 +1,5 @@
-<h1 align="center">Hello World! 👋<br>I'm Prathmesh</h1>
-<h2 align="center">Development and design</h2>
+<h1 align="center">Hello World!👋<br>I'm Prathmesh</h1>
+## Development and Design...
 
 - 🔭 I’m currently working on **A frontend project using React JS**
 
