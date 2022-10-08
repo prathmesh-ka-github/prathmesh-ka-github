@@ -1,7 +1,7 @@
 # Hello World!
-
+<h1 align="center">Hello World!</h1>
 <h1 align="center">Hi 👋, I'm Prathmesh</h1>
-<h2 align="center">Development and design</h3>
+<h2 align="center">Development and design</h2>
 
 - 🔭 I’m currently working on **A frontend project using React JS**
 
@@ -24,4 +24,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathmesh&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
