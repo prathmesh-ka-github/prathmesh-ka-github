@@ -1,6 +1,6 @@
 <h1 align="center">Hello World!👋</h1>
 <h1 align="left">I'm Prathmesh</h1>
-Development and Design...
+Working in Development and Design...
 
 - 🔭 I’m currently working on **A frontend project using React JS**
 
