@@ -10,13 +10,12 @@ Working in Development and Design...
 
 - ⚡ Fun fact! **I just need some coffee and a lofi playlist then Im ready to code and work on projects all night XD**
 
-<h3 align="left">Connect with me:</h3>
+<p align="left">Connect with me:</p>
   <br>Gmail - connect.prathmesh905@gmail.com
   <br>Instagram - @_wings_like_eagles_
   <br>Linkdln -
 <p align="left">
 </p>
-
 
 <p align="left"> 
 <h3 align="left">Languages : </h3>
@@ -28,7 +27,7 @@ Working in Development and Design...
 <h3 align="left">Design softwares : </h3>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  
 </p>
-<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathmesh&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
