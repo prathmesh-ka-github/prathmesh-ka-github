@@ -8,7 +8,10 @@ Working in Development and Design...
 
 - 👯 I’m looking to collaborate on **Any web development related frontend projects!**
 
-- 📫 How to reach me **connect.prathmesh905@gmail.com**
+- 📫 How to reach me?
+  Gmail - **connect.prathmesh905@gmail.com**
+  Instagram - **@_wings_like_eagles_**
+  Linkdln -
 
 - ⚡ Fun fact **I just need some coffee and Im ready to code and work on projects all night XD**
 
