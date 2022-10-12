@@ -11,8 +11,8 @@ Working in Development and Design...
 - ⚡ Fun fact! **I just need some coffee and a lofi playlist then Im ready to code and work on projects all night XD**
 
 <h3 align="left">Connect with me:</h3>
-  <br>Gmail - **connect.prathmesh905@gmail.com**
-  <br>Instagram - **@_wings_like_eagles_**
+  <br>Gmail - connect.prathmesh905@gmail.com
+  <br>Instagram - @_wings_like_eagles_
   <br>Linkdln -
 <p align="left">
 </p>
