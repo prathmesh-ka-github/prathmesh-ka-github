@@ -1,7 +1,8 @@
 <h1 align="center">Hello World!👋</h1>
-<h1 align="left">I'm Prathmesh</h1><h2 align="left">Development and Design...</h2>
+<h1 align="left">I'm Prathmesh</h1>
+<h2 align="left">Development and Design...</h2>
 
-- 🔭 I’m currently working on **A frontend project using React JS**
+- 🔭 I’m currently working on **A frontend project using React JS and Tailwind CSS**
 
 - 🌱 I’m currently learning **React JS and JAVA**
 
@@ -9,7 +10,7 @@
 
 - ⚡ Fun fact! **I just need some coffee and a lofi playlist then Im ready to code and work on projects all night XD**
 <br>
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">Connect with me : </h2>
   Gmail - connect.prathmesh905@gmail.com
   <br>Instagram - @_wings_like_eagles_
   <br>Linkdln -
