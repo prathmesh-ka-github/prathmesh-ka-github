@@ -29,7 +29,7 @@ Working in Development and Design...
 </p>
 
 
-<h3 align="left">My Stats :</h3>
+<h2 align="left">My Stats :</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathmesh&show_icons=true&theme=tokyonight)
 
