@@ -15,7 +15,7 @@
 <h2 align="left">Connect with me : </h2>
   Gmail - connect.prathmesh905@gmail.com
   <br>Instagram - @_wings_like_eagles_
-  <br>Linkdln -
+  <br>Linkdln - https://www.linkedin.com/in/prathmesh-kale-a1713623a/
 <p align="left">
 </p>
 
