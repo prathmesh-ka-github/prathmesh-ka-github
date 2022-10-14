@@ -4,7 +4,9 @@
 
 - 🔭 I’m currently working on **A frontend project using React JS and Tailwind CSS**
 
-- 🌱 I’m currently learning **React JS and JAVA**
+- 🌱 Right now I'm learning **React JS and JAVA**
+
+- ✨ Checkout my projects that are in my **Repositories**
 
 - 👯 I’m looking to collaborate on **Any web development related frontend projects!**
 
