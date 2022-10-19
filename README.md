@@ -1,10 +1,10 @@
-<h1 align="center">Hello World!👋</h1>
+<h1 align="center">Hello, World!👋</h1>
 <h1 align="left">I am Prathmesh</h1>
 <h2 align="left">Working in Web Development and Design... <br> <h4 align="left">Computer science student with a foot in design and vision with big dreams in my head.</h4></h2>
 
 <br> <br> <br>
 <h2 align="left">Right now!</h2>
-- 🔭 I’m working on **A frontend project using React JS and Tailwind CSS**
+- 🔭 I’m working on **A Full stack project in which leading the frontend team and using React JS and Tailwind CSS utility classes**
 
 - 🌱 I'm learning **React JS and JAVA**
 
