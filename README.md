@@ -15,9 +15,9 @@
 - ⚡ The Fun fact is! **I just need some coffee and a lofi playlist then Im ready to code and work on projects all night XD**
 <br>
 <h2 align="left">Connect with me : </h2>
-  Gmail - connect.prathmesh905@gmail.com
-  <br>Instagram - @_wings_like_eagles_
-  <br>Linkdln - https://www.linkedin.com/in/prathmesh-kale-a1713623a/
+  Mail 📨 - connect.prathmesh905@gmail.com
+  <br>Instagram 📷 - @_wings_like_eagles_
+  <br>Linkdln 👔 - https://www.linkedin.com/in/prathmesh-kale-a1713623a/
 <p align="left">
 </p>
 
