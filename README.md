@@ -1,6 +1,6 @@
 <h1 align="center">Hello World!👋</h1>
 <h1 align="left">I am Prathmesh</h1>
-<h2 align="left">Working in Web Development and Design... <br> <h4 align="left">Computer science student with a foot in design and vision with big dreams in head.</h4></h2>
+<h2 align="left">Working in Web Development and Design... <br> <h4 align="left">Computer science student with a foot in design and vision with big dreams in my head.</h4></h2>
 
 <br> <br> <br>
 <h2 align="left">Right now!</h2>
