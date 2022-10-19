@@ -1,6 +1,6 @@
 <h1 align="center">Hello World!👋</h1>
-<h1 align="left">I'm Prathmesh</h1>
-<h2 align="left">Web Development and Design...</h2>
+<h1 align="left">I am Prathmesh</h1>
+<h2 align="left">Working in Web Development and Design...</h2>
 
 - 🔭 I’m currently working on **A frontend project using React JS and Tailwind CSS**
 
