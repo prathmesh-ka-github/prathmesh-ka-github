@@ -3,15 +3,16 @@
 <h2 align="left">Working in Web Development and Design... <br> <h4 align="left">Computer science student with a foot in design and vision with big dreams in head.</h4></h2>
 
 <br> <br> <br>
-- 🔭 I’m currently working on **A frontend project using React JS and Tailwind CSS**
+<h2 align="left">Right now!</h2>
+- 🔭 I’m working on **A frontend project using React JS and Tailwind CSS**
 
-- 🌱 Right now I'm learning **React JS and JAVA**
+- 🌱 I'm learning **React JS and JAVA**
 
-- ✨ Checkout my projects that are in my **Repositories!!**
+- ✨ Do Checkout my projects that are in my **Repositories!!**
 
 - 👯 I’m looking to collaborate on **Any web development related frontend projects!**
 
-- ⚡ Fun fact! **I just need some coffee and a lofi playlist then Im ready to code and work on projects all night XD**
+- ⚡ The Fun fact is! **I just need some coffee and a lofi playlist then Im ready to code and work on projects all night XD**
 <br>
 <h2 align="left">Connect with me : </h2>
   Gmail - connect.prathmesh905@gmail.com
