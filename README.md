@@ -31,7 +31,7 @@
 </p>
 
 
-<h2 align="left">My Stats :</h2>
+<h2 align="left">Checkout my Stats!</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathmesh&show_icons=true&theme=tokyonight&hide_border=true)
 
