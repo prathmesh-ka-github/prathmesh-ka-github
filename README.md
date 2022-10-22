@@ -4,6 +4,7 @@
 
 <br> <br> <br>
 <h2 align="left">Right now!</h2>
+
 - 🔭 I’m working on **A Full stack project in which leading the frontend team and using React JS and Tailwind CSS utility classes**
 
 - 🌱 I'm learning **React JS and JAVA**
