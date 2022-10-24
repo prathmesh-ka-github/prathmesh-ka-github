@@ -1,6 +1,4 @@
 
-![hello world](https://user-images.githubusercontent.com/103999608/197383614-a1e4719c-62bd-437b-81e4-b6b008ee4c7a.png)
-
 <h1 align="left">I am Prathmesh</h1>
 <h2 align="left">Working in Web Development and Design... <br> <h4 align="left">Computer science student with a foot in design and vision with big dreams in my head.</h4></h2>
 
