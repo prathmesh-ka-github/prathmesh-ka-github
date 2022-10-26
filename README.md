@@ -1,4 +1,4 @@
-<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img alt="Coder GIF" height=720 width=1280 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <br>
 <h1 align="left">I am Prathmesh</h1>
 <h2 align="left">Working in Web Development and Design... <br> <h4 align="left">Computer science student with a foot in design and vision with big dreams in my head.</h4></h2>
