@@ -3,7 +3,7 @@
 <h4 align="left">Computer science student with a foot in design and vision with big dreams in my head.</h4>
 </h2>
 <br>
-<img alt="Coder GIF" height=560 width=1120 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img alt="Coder GIF" height=auto width=auto src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 
 
