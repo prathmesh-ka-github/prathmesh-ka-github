@@ -4,10 +4,8 @@
 </h2>
 <br>
 <img alt="Coder GIF" height=auto width=auto src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
-
-
-
-<br> <br>
+<br> 
+<br>
 <h2 align="left">Right now!</h2>
 
 - 🔭 I’m working on **A Full stack project in which leading the frontend team and using React JS and Tailwind CSS utility classes**
