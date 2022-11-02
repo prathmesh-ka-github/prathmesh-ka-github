@@ -48,4 +48,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=prathmesh-ka-github&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <br><br>
 <h1>Keep coding fellas!<h1/>
-![](https://github.com/prathmesh-ka-github/prathmesh-ka-github/blob/main/cat-computer.gif)
+
+<img alt="Coder GIF" height=auto width=auto src="https://media.tenor.com/y2JXkY1pXkwAAAAd/cat-computer.gif" />
