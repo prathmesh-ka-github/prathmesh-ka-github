@@ -22,6 +22,7 @@
   Mail 📨 - connect.prathmesh905@gmail.com
   <br>Instagram 📷 - @_wings_like_eagles_
   <br>Linkdln 👔 - https://www.linkedin.com/in/prathmesh-kale-a1713623a/
+  <br>Hackerrank 💻 - @connect_prathme1
 <p align="left">
 </p>
 
