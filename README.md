@@ -48,4 +48,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=prathmesh-ka-github&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <br><br>
 <h1>Keep coding fellas!<h1/>
-![cat-computer](https://user-images.githubusercontent.com/103999608/199549142-ae1e80b1-25c8-4827-a312-c171278dea54.gif)
+https://github.com/prathmesh-ka-github/prathmesh-ka-github/blob/main/cat-computer.gif
