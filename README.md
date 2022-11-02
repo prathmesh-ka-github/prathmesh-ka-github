@@ -41,7 +41,7 @@
 
 <h2 align="left">Checkout my Stats!</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathmesh&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathmesh&show_icons=true&theme=tokyonight&hide_border=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_border=true&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
