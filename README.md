@@ -41,7 +41,7 @@
 
 <h2 align="left">Checkout my Stats!</h2>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=prathmesh-ka-github&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/prathmesh-ka-github)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=prathmesh-ka-github&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/prathmesh-ka-github)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh-ka-github&hide_border=true&layout=compact&theme=tokyonight)](https://github.com/prathmesh-ka-github)
 
