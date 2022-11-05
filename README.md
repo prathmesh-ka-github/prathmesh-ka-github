@@ -23,6 +23,7 @@
   <br>Instagram 📷 - @_wings_like_eagles_
   <br>Linkdln 👔 - https://www.linkedin.com/in/prathmesh-kale-a1713623a/
   <br>HackerRank 💻 - @pratham_c0des
+  <br>CodeChef 👨‍🍳 - @pratham_c0des
 <p align="left">
 </p>
 
