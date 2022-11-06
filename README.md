@@ -30,7 +30,9 @@
   <br>CodeChef 👨‍🍳 - @pratham_c0des
 <p align="left">
 </p>
-
+<br>
+<a href=https://github.com/prathmesh-ka-github><img src="contributions.svg"></a>
+<br>
 <p align="left"> 
 <h3 align="left">Languages : </h3>
 (should I add japanese that I learned from anime?) <br>
