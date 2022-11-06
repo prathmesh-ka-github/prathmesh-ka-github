@@ -4,12 +4,11 @@
 </h2>
 <br>
 <img alt="Coder GIF" height=auto width=auto src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
-
+<br> 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/prathmesh-ka-github/count.svg" />
 </p>
-<br> 
 <br>
 <h2 align="left">Right now!</h2>
 
