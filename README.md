@@ -29,7 +29,7 @@
   <br>HackerRank 💻 - @pratham_c0des
   <br>CodeChef 👨‍🍳 - @pratham_c0des
   <br>
-  <h1><a href="https://prathmesh-ka-github.github.io/pratham-c0des./">View my portfolio!</a></h1>
+  <h1><a target="_blank" href="https://prathmesh-ka-github.github.io/pratham-c0des./">View my portfolio!</a></h1>
 <p align="left">
 </p>
 <br>
