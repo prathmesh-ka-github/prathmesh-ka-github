@@ -54,9 +54,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh-ka-github&hide_border=true&layout=compact&theme=tokyonight)](https://github.com/prathmesh-ka-github)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh-ka-github&layout=compac&theme=tokyonight)]
-(https://github.com/prathmesh-ka-github)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=prathmesh-ka-github&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/prathmesh-ka-github)
 <br><br>
 <h1>Keep coding fellas!<h1/>
