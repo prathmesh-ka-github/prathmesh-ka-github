@@ -3,6 +3,7 @@
 <h4 align="left">Computer science student with a foot in design and vision with big dreams in my head.</h4>
 </h2>
 <br>
+<h1 align="center"><a target="_blank" href="https://prathmesh-ka-github.github.io/pratham-c0des./">Click to Checkout my portfolio here!!</a></h1>
 <img alt="Coder GIF" height=auto width=auto src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <br> 
 <p align="center"> 
@@ -29,7 +30,7 @@
   <br>HackerRank 💻 - @pratham_c0des
   <br>CodeChef 👨‍🍳 - @pratham_c0des
   <br>
-  <h1 align="center"><a target="_blank" href="https://prathmesh-ka-github.github.io/pratham-c0des./">Click to Checkout my portfolio here!!</a></h1>
+  
 <p align="left">
 </p>
 <br>
