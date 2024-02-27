@@ -1,6 +1,6 @@
-<h1 align="left">Hi! I am Prathmesh</h1>
-<h2 align="left">Working in Web Development and Design...</h2>  
-<h3 align="left">Computer science student with a foot in design and vision with big dreams in my head.</h3>
+# Hi! I am Prathmesh.  
+### Working in Web Development and Design...
+#### Computer science student with a foot in design and vision with big dreams in my head.
 
 <h1 align="center"><a target="_blank" href="https://prathmesh-ka-github.github.io/pratham-c0des./">Click to Checkout my portfolio here!!</a></h1>
 <img alt="Coder GIF" height=auto width=auto src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
