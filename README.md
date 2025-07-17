@@ -2,80 +2,46 @@
 ### Working in Web Development and Design...
 #### Computer science student with a foot in design and vision with big dreams in my head.
 
-<h1 align="center"><a target="_blank" href="https://prathmesh-ka-github.github.io/pratham-c0des./">Click to Checkout my portfolio here!!</a></h1>
+<br>
 <img alt="Coder GIF" height=auto width=auto src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
-<br> 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/prathmesh-ka-github/count.svg" />
-</p>
+<h1 align="center"><a target="_blank" href="https://prathmesh-ka-github.github.io/pratham-c0des./">Click to Checkout my portfolio here!!</a></h1>
+
 <br>
-<h2 align="left">Right now!</h2>
-
-- 🔭 I’m working on **A Full stack project in which leading the frontend team and using React JS and Tailwind CSS utility classes**
-
-- 🌱 I'm learning **React JS and JAVA**
-
-- ✨ Do Checkout my projects that are in my **Repositories!!**
-
-- 👯 I’m looking to collaborate on **Any web development related frontend projects!**
-
-- ⚡ The Fun fact is! **I just need some coffee and a lofi playlist then Im ready to code and work on projects all night XD**
-<br>
-<h2 align="left">Connect with me : </h2>
-  Mail 📨 - connect.prathmesh905@gmail.com
-  <br>Instagram 📷 - @_wings_like_eagles_
-  <br>Linkdln 👔 - https://www.linkedin.com/in/prathmesh-kale-a1713623a/
-  <br>HackerRank 💻 - @pratham_c0des
-  <br>CodeChef 👨‍🍳 - @pratham_c0des
-  <br>
-  
-<p align="left">
-</p>
-<br>
-<a href=https://github.com/prathmesh-ka-github><img src="contributions.svg"></a>
+<h3 align="left">Connect with me : </h3>
+  <a target="_blank" href="mailto:pkale@albany.edu">Mail 📨</a> &emsp; <a target="_blank" href="https://www.linkedin.com/in/prathmesh-kale-a1713623a/">Linkdln 👔</a> &emsp; <a target="_blank" href="https://www.hackerrank.com/profile/_pratham_codes_">HackerRank 💻</a> &emsp; <a target="_blank" href="https://www.codechef.com/users/pratham_c0des">CodeChef 👨‍🍳 </a> <br>
 <br>
 <p align="left"> 
-<h3 align="left">Languages : </h3>
-(should I add japanese that I learned from anime?) <br>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<h2 align="left">Languages : </h2>
+(should I add japanese that I learned from anime?)
 
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>&emsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&emsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&emsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&emsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&emsp; <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 
 <h3 align="left">Web development : </h3>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://github.com/prathmesh-ka-github/prathmesh-ka-github/assets/103999608/820cfc9a-9ca6-4517-9378-c083204fd220" alt="bootstrap" width="50" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/prathmesh-ka-github/prathmesh-ka-github/assets/103999608/adf769c2-5b4e-4dd7-bd75-41e8b9a2bf4c" alt="express" width="35" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>&emsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>&emsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>&emsp;<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>&emsp;<img src="https://github.com/prathmesh-ka-github/prathmesh-ka-github/assets/103999608/820cfc9a-9ca6-4517-9378-c083204fd220" alt="bootstrap" width="50" height="40"/>&emsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>&emsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>&emsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>&emsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>&emsp;<img src="https://github.com/prathmesh-ka-github/prathmesh-ka-github/assets/103999608/adf769c2-5b4e-4dd7-bd75-41e8b9a2bf4c" alt="express" width="35" height="40"/>&emsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 
 <h3 align="left">Design softwares : </h3>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>     
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/prathmesh-ka-github/prathmesh-ka-github/assets/103999608/0911052f-8b6e-4e9b-9cd5-57958e675db5" alt="illustrator" width="40" height="40"/></a>  
+
+
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>&emsp;<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>&emsp;<img src="https://github.com/prathmesh-ka-github/prathmesh-ka-github/assets/103999608/0911052f-8b6e-4e9b-9cd5-57958e675db5" alt="illustrator" width="40" height="40"/>
 </p>
+
+<br>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.deno.dev/prathmesh-ka-github/count.svg" alt="Key:: Visitor's Count" />
+</p>
+
+<a href=https://github.com/prathmesh-ka-github><img src="contributions.svg"></a>
+<br> 
 
 
 <h2 align="left">Checkout my Stats!</h2>
 
-[![Top langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=prathmesh-ka-github&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/prathmesh-ka-github)
+[//]: ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh-ka-github&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=prathmesh-ka-github&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats-eight.vercel.app/?user=prathmesh-ka-github&theme=tokyonight&hide_border=true)<br/>
 
-[![Github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=prathmesh-ka-github&hide_border=true&theme=tokyonight)](https://github.com/prathmesh-ka-github)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=prathmesh-ka-github&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/prathmesh-ka-github)
-<br><br>
-<h1>Keep coding fellas!<h1/>
-
-<img alt="Coder GIF" height=auto width=auto src="https://media.tenor.com/y2JXkY1pXkwAAAAd/cat-computer.gif" />
+![prathmesh-ka-github's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=prathmesh-ka-github&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
