@@ -1,10 +1,11 @@
 # Hi! I am Prathmesh.  
 ### Working in Web Development and Design...
 #### Computer science student with a foot in design and vision with big dreams in my head.
-
 <br>
-<img alt="Coder GIF" height=auto width=auto src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <h1><a target="_blank" href="https://www.prathamc0des.dev/">https://www.prathamc0des.dev/</a></h1>
+
+<img alt="Coder GIF" height=auto width=auto src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+
 
 <br>
 <h3 align="left">Connect with me : </h3>
