@@ -4,7 +4,7 @@
 
 <br>
 <img alt="Coder GIF" height=auto width=auto src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
-<h1 align="center"><a target="_blank" href="https://prathmesh-ka-github.github.io/pratham-c0des./">Click to Checkout my portfolio here!!</a></h1>
+<h1><a target="_blank" href="https://www.prathamc0des.dev/">https://www.prathamc0des.dev/</a></h1>
 
 <br>
 <h3 align="left">Connect with me : </h3>
