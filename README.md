@@ -54,8 +54,12 @@
 <h2 align="left">Checkout my Stats!</h2>
 
 [//]: ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh-ka-github&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=prathmesh-ka-github&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats-eight.vercel.app/?user=prathmesh-ka-github&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=prathmesh-ka-github&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=prathmesh-ka-github&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true) <br/>
+
+<!--
+![](https://github-readme-streak-stats-eight.vercel.app/?user=prathmesh-ka-github&theme=tokyonight&hide_border=true)
+-->
 
 ![prathmesh-ka-github's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=prathmesh-ka-github&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
 
