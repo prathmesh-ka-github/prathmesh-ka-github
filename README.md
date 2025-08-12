@@ -54,8 +54,12 @@
 <h2 align="left">Checkout my Stats!</h2>
 
 [//]: ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh-ka-github&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=prathmesh-ka-github&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=prathmesh-ka-github&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true) <br/>
+![Stats](https://github-readme-stats.vercel.app/api?username=prathmesh-ka-github&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats-eight.vercel.app/?user=prathmesh-ka-github&theme=tokyonight&hide_border=true)
+
+[//]: ![](https://streak-stats.demolab.com/?user=prathmesh-ka-github&theme=tokyonight&hide_border=true)<br/>
+
+<br/>
 
 <!--
 ![](https://github-readme-streak-stats-eight.vercel.app/?user=prathmesh-ka-github&theme=tokyonight&hide_border=true)
